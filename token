@@ -1,0 +1,6 @@
+feat: Add tokenomics implementation and optimize gas usage in contracts
+- Introduced the tokenomics logic for handling token distribution and rewards.
+- Optimized gas usage in the smart contract by reducing redundant storage reads/writes.
+- Enhanced contract security with proper access control mechanisms (e.g., modifiers).
+- Added unit tests to ensure correct behavior of core functions.
+- Updated documentation to reflect new changes in tokenomics implementation.
